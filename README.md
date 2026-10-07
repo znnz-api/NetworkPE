@@ -17,10 +17,10 @@ NetworkPE is a WinPE with full network functionality. You can use for computer m
 ![](assets/NetworkPE5.jpg)
 
 <p float="left">
-<img src="assets/NetworkPE1.jpg" width="48%" /> &nbsp;&nbsp;
-<img src="assets/NetworkPE2.jpg" width="48%" />
+<img src="assets/NetworkPE1.jpg" width="48.75%" /> &nbsp;&nbsp;
+<img src="assets/NetworkPE2.jpg" width="48.75%" />
 </p>
 <p float="left">
-<img src="assets/NetworkPE3.jpg" width="48%" /> &nbsp;&nbsp;
-<img src="assets/NetworkPE4.jpg" width="48%" />
+<img src="assets/NetworkPE3.jpg" width="48.75%" /> &nbsp;&nbsp;
+<img src="assets/NetworkPE4.jpg" width="48.75%" />
 </p>
