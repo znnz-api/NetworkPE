@@ -18,3 +18,12 @@ NetworkPE is a WinPE with full network functionality. You can use for computer m
 
 | <img src="assets/NetworkPE1.jpg" style="padding:10px;"> | <img src="assets/NetworkPE2.jpg" style="padding:10px;"> |
 | <img src="assets/NetworkPE3.jpg" style="padding:10px;"> | <img src="assets/NetworkPE4.jpg" style="padding:10px;"> |
+
+<p float="left">
+<img src="assets/NetworkPE1.jpg" width="300" /> &nbsp;&nbsp;
+<img src="assets/NetworkPE2.jpg" width="300" />
+</p>
+<p float="left">
+<img src="assets/NetworkPE3.jpg" width="300" /> &nbsp;&nbsp;
+<img src="assets/NetworkPE4.jpg" width="300" />
+</p>
